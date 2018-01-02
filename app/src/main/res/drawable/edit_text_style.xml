@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- create an xml layout file and add this for edit_text_border -->
+<!-- Reference for TextEdit border http://www.android-examples.com/add-rounded-corners-border-to-edittext-android-using-xml/ -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#ffffff"/>
+            <corners android:radius="10dp" />
+            <stroke
+                android:width="2dp"
+                android:color="#CDDC39"
+                />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843244934387",
+    "firebase_url": "https://youcef-store-project.firebaseio.com",
+    "project_id": "youcef-store-project",
+    "storage_bucket": "youcef-store-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843244934387:android:ed101ad60981cbd6",
+        "android_client_info": {
+          "package_name": "com.finalproject.youcef.youcefstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843244934387-dr6v5rlhjvtobhb5aqtcupnoue6kevls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finalproject.youcef.youcefstoreapp",
+            "certificate_hash": "F93DD87A34474E05055C125F1B1CD500BCF5BE3B"
+          }
+        },
+        {
+          "client_id": "843244934387-rmp5assamqlnirj5gom88rt8gh13u7oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtV7JJdQPuFtxFmnhv1Caw52OXPz4-fcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843244934387-rmp5assamqlnirj5gom88rt8gh13u7oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
