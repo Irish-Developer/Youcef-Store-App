@@ -2,7 +2,6 @@ package com.finalproject.youcef.youcefstoreapp;
 
 /**
  * Created by Youcef on 13/12/2016.
- * Student Number: x13114557
  */
 
 import android.content.pm.PackageManager;

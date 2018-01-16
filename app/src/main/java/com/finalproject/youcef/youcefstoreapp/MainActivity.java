@@ -3,8 +3,7 @@ package com.finalproject.youcef.youcefstoreapp;
 /*
 *
 * @uthor: Youcef O'Connor
-* Date: 24/11/16
-* Student Number: x13114557
+* Date: 02/12/16
 */
 
 import android.content.Intent;
